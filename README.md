@@ -8,4 +8,4 @@ Clone this repo, then:
 
 ```sh
 npm install
-gullp
+gulp
